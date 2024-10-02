@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <title>View Submissions | ASA Global Blacklist</title>
     <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>ARK: Survival Ascendend Global Blacklist</h1>
@@ -47,4 +48,3 @@ Call <a href=api.php?discord_id=DISCORD_ID>/api.php?discord_id=DISCORD_ID</a> to
     </table>
 </body>
 </html>
-
