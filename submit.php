@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <title>Submit Discord Info</title>
     <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Submit Your Information</h1>
